@@ -1,23 +1,23 @@
-**🎲 Dice Game**
+# **🎲 Dice Game**
 
 A fun and interactive Dice Game built with React!
 Test your luck by selecting a number and rolling a dice. Earn points for correct guesses—but beware, wrong guesses will cost you!
 
-**✨ Features**
+## **✨ Features**
 
-🎯 Select a number between 1 to 6
+- 🎯 Select a number between 1 to 6
 
-🎲 Roll the dice by clicking on it
+- 🎲 Roll the dice by clicking on it
 
-✅ Earn points equal to the dice value if your guess is correct
+- ✅ Earn points equal to the dice value if your guess is correct
 
-❌ Lose 2 points if your guess is wrong
+- ❌ Lose 2 points if your guess is wrong
 
-💯 Real-time score tracking
+- 💯 Real-time score tracking
 
-🎨 Clean UI designed using Figma
+- 🎨 Clean UI designed using Figma
 
-**🛠️ Tech Stack**
+## **🛠️ Tech Stack**
 
 Frontend: React.js, HTML, CSS
 
@@ -25,7 +25,7 @@ Frontend: React.js, HTML, CSS
 
 **State Management:** React Hooks (useState)
 
-**🚀 Getting Started**
+## **🚀 Getting Started**
 
 Follow these steps to run the project locally:
 
